@@ -1,5 +1,8 @@
 Hello, welcome to our project
 
+DRAFT (but double points so basically final): **November 27th midnight**
+FINAL **December 11th midnight**
+
 TO DO:
 - under stand how we can utilize the LSTM
 - find example projects to reference for how to include context
