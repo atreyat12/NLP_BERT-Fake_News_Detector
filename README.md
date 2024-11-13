@@ -1,5 +1,9 @@
 Hello, welcome to our project
 
+TO DO:
+- under stand how we can utilize the LSTM
+- find example projects to reference for how to include context
+
 ## Main Paper
 https://arxiv.org/pdf/1705.00648v1
 
